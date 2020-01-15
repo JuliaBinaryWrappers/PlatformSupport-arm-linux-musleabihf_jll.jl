@@ -1,0 +1,10 @@
+name = "PlatformSupport-arm-linux-musleabihf_jll"
+uuid = "4cf805d6-35d8-5348-baa7-ae09075f3768"
+version = "2020.1.15+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

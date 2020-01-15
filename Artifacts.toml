@@ -1,0 +1,9 @@
+[[PlatformSupport-arm-linux-musleabihf]]
+arch = "x86_64"
+git-tree-sha1 = "d45456e76279b763134215a82891169474b1a814"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-arm-linux-musleabihf.download]]
+    sha256 = "3288bdbc8e4a4a88044900cbca0076c85c1869bc2502cdffebf66b213fece53e"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-arm-linux-musleabihf_jll.jl/releases/download/PlatformSupport-arm-linux-musleabihf-v2020.1.15+0/PlatformSupport-arm-linux-musleabihf.v2020.1.15.x86_64-linux-musl.tar.gz"
